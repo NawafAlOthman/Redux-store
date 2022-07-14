@@ -1,4 +1,4 @@
-# Candy store, powered by redu
+# Candy store, powered by redux
 
 This was a project I have worked on while testing how learning how to work with redux. 
 
